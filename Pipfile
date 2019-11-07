@@ -6,6 +6,14 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pandas = "*"
+dash = "*"
+dash-core-components = "*"
+dash-html-components = "*"
+plotly = "*"
+flask = "*"
+sqlalchemy = "*"
+dash-table = "*"
 
 [requires]
 python_version = "3.6"
